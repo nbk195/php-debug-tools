@@ -1,0 +1,19 @@
+{
+    "name": "nbk195/php-debug-tools",
+    "description": "A single package for handling debug dependencies in PHP project",
+    "authors": [
+        {
+            "name": "Cyril Stauder",
+            "email": "stauder.cyril@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "type": "metapackage",
+    "keywords": [ "php", "debug", "tools" ],
+    "require": {
+        "raveren/kint": "^1.0",
+        "maximebf/debugbar": ">=1.0.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
