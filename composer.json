@@ -11,7 +11,7 @@
     "type": "metapackage",
     "keywords": [ "php", "debug", "tools" ],
     "require": {
-        "raveren/kint": "^1.0",
+        "kint-php/kint": "^2.0",
         "maximebf/debugbar": ">=1.0.0"
     },
     "minimum-stability": "stable",
